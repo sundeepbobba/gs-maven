@@ -34,9 +34,9 @@
     </build>
     <distributionManagement>
     <snapshotRepository>
-        <id>maven-snapshots</id>
+        <id>test</id>
         <name>Internal Snapshots</name>
-        <url>http://192.168.0.27:8081/repository/maven-snapshots/</url>
+        <url>http://54.197.22.156:8081/repository/test/</url>
     </snapshotRepository>
     <repository>
         <id>Internalreleases</id>
