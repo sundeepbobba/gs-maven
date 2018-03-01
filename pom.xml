@@ -11,6 +11,7 @@
     <url>scm:git:git@github.com:sundeepbobba/gs-maven.git</url>
     <tag>HEAD</tag>
     </scm>
+    <version>0.1.0</version>
 
     <build>
         <plugins>
